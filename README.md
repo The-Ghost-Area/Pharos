@@ -22,8 +22,8 @@ An automated bot for interacting with the Pharos Testnet, performing swaps, tran
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vikitoshi/Pharos-Auto-Bot.git
-   cd Pharos-Auto-Bot
+   git clone https://github.com/The-Ghost-Area/Pharos.git
+   cd Pharos
    ```
 
 2. Install dependencies:
